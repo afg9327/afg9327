@@ -12,5 +12,9 @@
 
 <br/>
 <h2> My tech stack 📝 </h2>
-
-![HTML5](https://img.shields.io/static/v1?label=HTML5&message=<MESSAGE>&color=red)
+<p>
+ <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Kotlin-9cf?style=flat-square&logo=kotlin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C++-9cf?style=flat-square&logo=cplusplus&logoColor=white"/>
+</p>
