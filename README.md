@@ -1,18 +1,16 @@
 <img align="right" src="https://user-images.githubusercontent.com/93969640/178654026-074ef380-0496-4931-85a9-a19f035918fa.png" width ="300"/>
 
-### Hi there 👋
+<h1> Hi, I'm beginner of coder.
+<p>
+ <em>
+  <h3>
+  Study in Kumoh National Insitute of Technology.<br>
+  Belong in department of computer Engineering.🤔
+  </h3>
+ </em>
+</p>
 
-<!--
-**afg9327/afg9327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<h2> My tech stack 📝 </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/static/v1?label=HTML5&message=<MESSAGE>&color=red)
