@@ -5,7 +5,7 @@
  <em>
   <h3>
   Study in Kumoh National Insitute of Technology.<br>
-  Belong in department of computer Engineering.🤔
+  Belong in department of computer engineering.🤔
   </h3>
  </em>
 </p>
