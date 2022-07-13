@@ -36,6 +36,6 @@
 </p>
  <h2> Contact 📱 </h2>
   <a href="https://velog.io/@afg9327"><img src="https://img.shields.io/badge/Velog-red?style=flat-square&logo=velog&logoColor=white"/></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jaemin0_2/"><img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100011019165519"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white"/></a>
   <a href="https://www.gmail.com/"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
