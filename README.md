@@ -45,7 +45,9 @@
   <a href="https://velog.io/@afg9327"><img src="https://img.shields.io/badge/Velog-black?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="https://www.instagram.com/jaemin0_2/"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100011019165519"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.gmail.com/"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:afg9327@gmail.com)
+ 
  </p>
 <h2>Hits📈</h2> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafg9327&count_bg=%23E27AE5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
