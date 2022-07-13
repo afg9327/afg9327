@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/93969640/178654026-074ef380-0496-4931-85a9-a19f035918fa.png" width ="300"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=@jaemin%200_2&fontSize=90)
 
 <h1> Hi, I'm beginner of coder.
 <p>
@@ -46,3 +46,10 @@
  </p>
 <h2>Hits📈</h2> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafg9327&count_bg=%23E27AE5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
+
+<h2>Use </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afg9327)](https://github.com/afg9327/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afg9327)](https://github.com/afg9327/github-readme-stats)
+
