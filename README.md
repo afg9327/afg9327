@@ -1,3 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/93969640/178654026-074ef380-0496-4931-85a9-a19f035918fa.png" width ="300"/>
+
 ### Hi there 👋
 
 <!--
