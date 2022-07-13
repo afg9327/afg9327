@@ -50,9 +50,12 @@
 <h2>Hits📈</h2> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafg9327&count_bg=%23E27AE5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
 
-<h2>Use </h2>
+<h2>Etc.. </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afg9327)](https://github.com/afg9327/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afg9327)](https://github.com/afg9327/github-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=afg9327)](https://velog.io/@afg9327)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
