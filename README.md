@@ -17,7 +17,6 @@
  <img src="https://img.shields.io/badge/Kotlin-9cf?style=flat-square&logo=kotlin&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-9cf?style=flat-square&logo=cplusplus&logoColor=white"/>
- <img src="https://img.shields.io/badge/C#-9cf?style=flat-square&logo=c#&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-9cf?style=flat-square&logo=java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-9cf?style=flat-square&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Typescript-9cf?style=flat-square&logo=typescript&logoColor=white"/> 
@@ -28,6 +27,13 @@
 <h2> My development environment 🔨 </h2>
 <p>
  <img src="https://img.shields.io/badge/VisualStudio-red?style=flat-square&logo=visualstudio&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VisualStudioCode-red?style=flat-square&logo=visualstudiocode&logoColor=white"/>
  <img src="https://img.shields.io/badge/Github-red?style=flat-square&logo=github&logoColor=white"/>
  <img src="https://img.shields.io/badge/AndroidStudio-red?style=flat-square&logo=androidstudio&logoColor=white"/>
  <img src="https://img.shields.io/badge/Eclipse-red?style=flat-square&logo=eclipse&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Ubuntu-red?style=flat-square&logo=ubuntu&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Goorm-red?style=flat-square&logo=goorm&logoColor=white"/>
+</p>
+ <h2> Contact 📱 </h2>
+  <a href="https://velog.io/@afg9327"><img src="https://img.shields.io/badge/Velog-red?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white"/></a>
